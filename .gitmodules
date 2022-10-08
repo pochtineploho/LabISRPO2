@@ -1,0 +1,3 @@
+[submodule "QueueBot"]
+	path = QueueBot
+	url = https://github.com/a13v3r/QueueBot
